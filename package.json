@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "mdx-deck deck.mdx --port 8040"
+    "start": "mdx-deck deck.mdx --port 8040",
+    "build": "mdx-deck build deck.mdx"
   },
   "keywords": [],
   "author": "Robin Millette <robin@millette.info> (http://robin.millette.info/)",
