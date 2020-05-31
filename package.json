@@ -1,11 +1,11 @@
 {
   "name": "masto-2020-06-02",
   "version": "0.0.0",
-  "description": "",
+  "description": "Mastodon, mais encore?",
   "main": "index.js",
   "scripts": {
     "start": "mdx-deck deck.mdx --port 8040",
-    "build": "mdx-deck build deck.mdx"
+    "build": "rm -fr public && mdx-deck build deck.mdx && mv public docs"
   },
   "keywords": [],
   "author": "Robin Millette <robin@millette.info> (http://robin.millette.info/)",
