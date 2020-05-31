@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "mdx-deck deck.mdx --port 8040",
-    "build": "rm -fr public && mdx-deck build deck.mdx && mv public docs"
+    "build": "mdx-deck build deck.mdx"
   },
   "keywords": [],
   "author": "Robin Millette <robin@millette.info> (http://robin.millette.info/)",
