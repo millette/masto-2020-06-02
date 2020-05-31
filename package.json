@@ -1,0 +1,15 @@
+{
+  "name": "masto-2020-06-02",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck deck.mdx --port 8040"
+  },
+  "keywords": [],
+  "author": "Robin Millette <robin@millette.info> (http://robin.millette.info/)",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "mdx-deck": "^4.1.1"
+  }
+}
