@@ -1,3 +1,5 @@
 node_modules/
 .env
 masto-2020-06-02.code-workspace
+public/
+.cache/
