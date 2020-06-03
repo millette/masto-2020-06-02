@@ -13,6 +13,15 @@ npm start # votre fureteur devrait s'ouvrir automatiquement sur http://localhost
 npm run build # pour générer la version de productiond dans public/
 ```
 
+## Framework
+
+* <https://github.com/jxnblk/mdx-deck>
+* <https://www.gatsbyjs.org/>
+* <https://github.com/mdx-js/mdx>
+* <https://github.com/system-ui/theme-ui>
+* <https://reactjs.org/>
+
+
 ## Keyboard Shortcuts
 
 | Key      | Description                                    |
